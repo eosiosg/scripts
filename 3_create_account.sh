@@ -1,0 +1,1 @@
+cleos create account eosio myaccount EOS6rswKpTVQiCgMaSFbf1jioYWZJ1aTkpwxB9M9YnjZZpBoGuMMZ EOS6rswKpTVQiCgMaSFbf1jioYWZJ1aTkpwxB9M9YnjZZpBoGuMMZ
