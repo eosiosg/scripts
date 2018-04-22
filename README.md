@@ -6,6 +6,7 @@
 Your private and public key will be generated locally
 1. cd one-click-join
 2. run ./boot.sh
+3. use tail -f eosiosg/logs/eos.log to check log
 
 ### Method 2
 Your private and public key will be generated online for you
