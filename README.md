@@ -18,7 +18,7 @@ Your private and public key will be generated online for you
 
 
 ## How to run a standalone testnet
-cd one-click-boot
+cd one-click-boot  
 ./1_start.sh  
 ./2_deploy_bios.sh  
 ./3_create_account.sh  
