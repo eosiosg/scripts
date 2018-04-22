@@ -11,7 +11,7 @@ Your private and public key will be generated locally
 Your private and public key will be generated online for you
 1. open http://testnet.eosio.sg/
 2. submit your node info  
-![alt text](http://testnet.eosio.sg/pic.png "snapshot")
+![alt text](http://images.eosio.sg/pic.png "snapshot")
 
 3. download config package and run
 4. once node is online, the node will be promote to producer automatically
