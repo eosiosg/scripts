@@ -1,7 +1,7 @@
-wget http://testapi.eosio.sg$(cat ./path.txt)
+wget http://api.eosio.sg$(cat ./path.txt)
 
-tar xfp eosiosg.tar && rm eosiosg.tar
+tar xfp eosiosg.tar && rm eosiosg.tar ;
 
-sed -i '' -e  "s/\"\"/\"$privateKey\"]/g" eosiosg/config-dir/config.ini
+sed -i '' -e  "s/\"\"/\"$privateKey\"/g" eosiosg/config-dir/config.ini
 
 ./3_start_node.sh
