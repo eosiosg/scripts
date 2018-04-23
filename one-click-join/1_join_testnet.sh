@@ -1,5 +1,5 @@
 curl -X POST \
-  "http://api.eosio.sg/secureNode?publicKey=$publicKey" \
+  "http://testapi.eosio.sg/secureNode?publicKey=$publicKey" \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
   -d " {
