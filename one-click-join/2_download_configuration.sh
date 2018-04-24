@@ -1,4 +1,4 @@
-wget http://testapi.eosio.sg$(cat ./path.txt)
+wget http://api.eosio.sg$(cat ./path.txt)
 
 tar xfp eosiosg.tar && rm eosiosg.tar ;
 
