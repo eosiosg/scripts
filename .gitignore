@@ -1,0 +1,3 @@
+scripts/data-dir
+scripts/*.pid
+scripts/logs/*
