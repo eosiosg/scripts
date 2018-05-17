@@ -1,6 +1,6 @@
 {
   "initial_key": "EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
-  "initial_timestamp": "2018-04-20T00:00:00",
+  "initial_timestamp": "2018-05-12T00:00:00",
   "initial_parameters": {
     "maintenance_interval": 86400,
     "maintenance_skip_slots": 3,
