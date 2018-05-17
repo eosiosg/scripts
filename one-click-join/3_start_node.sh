@@ -1,2 +1,0 @@
-cd eosiosg
-./run.sh
