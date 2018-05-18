@@ -5,7 +5,7 @@ The scripts folder contains handy shell to boot a eos node and deploy contracts.
 #### How To Use
 1. update configuration in env.sh
 2. run  
- ```. .env.sh```
+ ```. ./env.sh```
 
 3. run each steps sequentially
 4. use watch.sh to watch logs
