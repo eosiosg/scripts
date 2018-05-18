@@ -1,6 +1,6 @@
-### EOS-scripts
+### launch-scripts
 
-The scripts folder contains handy shell to boot a eos node and deploy contracts.
+This folder contains handy shell to boot a eos node and deploy contracts.
 
 #### How To Use
 1. update configuration in env.sh
@@ -11,3 +11,8 @@ The scripts folder contains handy shell to boot a eos node and deploy contracts.
 4. use watch.sh to watch logs
 5. use grep.sh to check pids
 6. use kill.sh and clean.sh to clean data and logs
+
+
+### vote-scripts
+
+This folder contains helper shell related to vote.
