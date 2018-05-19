@@ -5,4 +5,5 @@
 
 #cleos push action eosio.token transfer '["voter", "proxy", "100.0000 EOS","m"]' -p voter
 
-cleos transfer eosio frank "1000000000.0000 EOS"
+cleos transfer eosio frank1111111 "1000000000.0000 SYS"
+cleos transfer frank1111111 producer1111 "10000.0000 SYS"
