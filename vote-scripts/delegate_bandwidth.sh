@@ -5,4 +5,4 @@
 # $3 - net stake
 # $4 - cpu stake
 
-cleos system delegatebw $1 $2 "$3 EOS" "$4 EOS" --transfer
+cleos system delegatebw $1 $2 "$3 SYS" "$4 SYS" --transfer

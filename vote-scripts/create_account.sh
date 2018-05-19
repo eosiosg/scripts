@@ -3,5 +3,5 @@
 # $2 - public key
 # $3 - private key
 
-cleos system newaccount eosio $1 $2 $2 --stake-net "1.0000 EOS" --stake-cpu "1.0000 EOS" --buy-ram-EOS "1.0000 EOS"
+cleos system newaccount eosio $1 $2 $2 --stake-net "0.1000 SYS" --stake-cpu "0.1000 SYS" --buy-ram-EOS "0.1000 SYS"
 cleos wallet import $3
