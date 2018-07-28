@@ -23,5 +23,8 @@ printHeader 5_deploy_system.sh
 printHeader 6_kick_off_shuffle.sh
 ./6_kick_off_shuffle.sh
 
-printHeader 7_resign_eosio.sh
-./7_resign_eosio.sh
+printHeader 7_create_accounts.sh
+./7_create_accounts.sh
+
+#printHeader 8_resign_eosio.sh
+#./8_resign_eosio.sh
